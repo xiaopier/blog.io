@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "学苟知本，六经皆我注脚 "
+description: "我们的自由岌岌可危 "
 header-img: "img/blue.jpg"
 ---
 
@@ -10,9 +10,9 @@ header-img: "img/blue.jpg"
     <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
 </center>
 
-我是陈素封，每天千字践行者，践行时间：2014年02月10日至2015年02月23日，感谢这段经历，让我成为了现在的我。
+我是xiaopier，一个诚实善良的蓝军，twitter ID@xiaopier，从08年到现在一直忠诚黑莓，也感谢这段经历，让我认识了一帮朋友，成为了现在的我。
 
-现在研习 **认知写作学** 。
+现在研习 **认真生活。努力工作** 。
 
 ###坚信
 
@@ -25,12 +25,7 @@ header-img: "img/blue.jpg"
 
 ###关注：
 
-
-- [元认知](http://www.mesule.com/)
-- 写作
-- Python
-- [阳志平](http://www.yangzhiping.com/)
-- [ZoomQuiet](http://blog.zoomquiet.io/)
+about.me/pier
 
 
 
@@ -53,15 +48,13 @@ header-img: "img/blue.jpg"
 
 ###联系
 
-- [博客：www.cnfeat.com](www.cnfeat.com)
+- [博客：res4ever.xyz](www.cnfeat.com)
 
-- [微博@CnFeat](http://weibo.com/207775270)
+- [Twitter@xiaopier](http://weibo.com/207775270)
 
-- [知乎@陈素封](http://www.zhihu.com/people/Feat)
+- [Gmail](xiaopier@gmail.com)
 
-- [知乎专栏](http://zhuanlan.zhihu.com/cnfeat)
-
-- 公众号：cnfeat
+- [Telegram](xiaopier)
 
 
 <center>
