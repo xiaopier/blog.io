@@ -4,7 +4,7 @@ header-img: "img/twitter.jpg"
 tagline: "cn"  
 description: "Xiaopier|Resistance·Forever"  
 baseurl: ""
-url: "http://cnfeat"  
+url: "http://res4ever"  
 
 # About/contact
 owner: 
@@ -43,7 +43,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "CnFeat"
+      author: "Xiaopier"
       header-img: "img/birds.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
