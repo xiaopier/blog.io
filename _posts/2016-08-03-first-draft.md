@@ -4,7 +4,7 @@ title: 你好，Github
 date: 2016-08-03
 categories: blog
 tags: [blog]
-description:第一篇都不知道怎么写。
+description: 第一篇都不知道怎么写。
 
 ---
 
