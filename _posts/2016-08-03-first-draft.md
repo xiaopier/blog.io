@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello world
+title: 你好，Github
 date: 2016-08-03
 categories: blog
 tags: [blog]
