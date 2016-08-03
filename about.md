@@ -41,14 +41,14 @@ about.me/pier
 
 ###我的朋友们
 
-- [YiLee](http://yilee.me)
-- [Caos](http://caos.me)
-- [BuzhiNote](http://BuzhiNote.com)
-- [Azeril](http://azeril.me)
+- [duanh]
+- [seyen]
+- [inbug]
+- [nas]
 
 ###联系
 
-- [博客：res4ever.xyz](www.cnfeat.com)
+- [博客：res4ever.xyz]()
 
 - [Twitter@xiaopier](http://weibo.com/207775270)
 
@@ -58,7 +58,7 @@ about.me/pier
 
 
 <center>
-    <p><img src="http://i173.photobucket.com/albums/w63/cnfeat/2015-08-29-2_zpsqj7po8eo.png" align="center"></p>
+    <p><img src="" align="center"></p>
 </center>
 
 
