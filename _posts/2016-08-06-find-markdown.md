@@ -7,7 +7,7 @@ description: res4ever初始阶段
 
 ---
 
-大大前天，在Godaddy上购买了**[res4ever.xyz](res4ever.xyz)，讲真很喜欢这个域名，这很蓝军，接下来的事情难住了我，在这编辑发文章真的是太头大，没有像*wordpress*那种傻瓜式的编辑器，这里要求我们要像写程序一样post一篇博文。
+大大前天，在Godaddy上购买了[res4ever.xyz](res4ever.xyz)，讲真很喜欢这个域名，这很蓝军，接下来的事情难住了我，在这编辑发文章真的是太头大，没有像*wordpress*那种傻瓜式的编辑器，这里要求我们要像写程序一样post一篇博文。
 
 - 1查询了Google；
 - 2连接到了知乎；
