@@ -11,7 +11,7 @@ description: res4ever初始阶段
 
 - 1查询了Google；
 - 2连接到了知乎；
-- 3查询到了一堆的 Github+HEXO+markdown等等组合。
+- 3查询到了一堆的 Github+Jekyll+markdown等等组合。
 
 最终我找到了几篇比较好的文章，万一哪天有像我这样爱折腾的孩子想要复制我的想法不妨一试。
 首先是如何建站：不妨参考以下2篇文章
