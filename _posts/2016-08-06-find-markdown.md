@@ -1,9 +1,9 @@
 ---
-layout:post
-title:Mardown阅读编辑器
-data:2016-08-06
-categories:blog
-description:res4ever初始阶段
+layout: post
+title: Mardown阅读编辑器
+data: 2016-08-06
+categories: blog
+description: res4ever初始阶段
 
 ---
 
