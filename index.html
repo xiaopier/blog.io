@@ -13,10 +13,13 @@ description: "Xiaopier"
         <h3 class="post-subtitle">
             {{ post.subtitle }}
         </h3>
+         {% if post.figure %}
+<a href="{{post.url}}"><img src="{{post.figure}}"/></a>
         {% endif %}
         <div class="post-content-preview">
             {{ post.content  | truncate:200 }}
         </div>
+        
     </a>
     <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
 </div>
