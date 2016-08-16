@@ -7,7 +7,7 @@ header-img: "img/blue.jpg"
 
 
 <center>
-    <p><img src="http://i2.buimg.com/4851/ba82711b32f13259.png" align="center"></p>
+    <p><img src="http://i4.buimg.com/4851/4248383527033a3b.jpg" align="center"></p>
 </center>
 
 我是xiaopier，一个诚实善良的蓝军，twitter ID@xiaopier，从08年到现在一直忠诚黑莓，也感谢这段经历，让我认识了一帮朋友，成为了现在的我。
