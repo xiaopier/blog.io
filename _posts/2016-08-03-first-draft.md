@@ -5,6 +5,7 @@ date: 2016-08-03
 categories: blog
 tags: [blog]
 description: 第一篇都不知道怎么写。
+figure::[imgtest](http://i2.buimg.com/4851/ba82711b32f13259.png)
 
 ---
 
