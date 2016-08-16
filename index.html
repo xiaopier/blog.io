@@ -16,6 +16,7 @@ description: "Xiaopier"
          {% if post.figure %}
 <a href="{{post.url}}"><img src="{{post.figure}}"/></a>
         {% endif %}
+        {% endif %}
         <div class="post-content-preview">
             {{ post.content  | truncate:200 }}
         </div>
