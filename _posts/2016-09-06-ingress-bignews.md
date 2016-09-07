@@ -41,11 +41,7 @@ description: ingress新闻
 
 All in a word,今天的行动轻松加愉快。
 
-下面赠送几张美图
 
-
-
-![img4](http://i1.piimg.com/4851/d48a4061fb6a5906.jpg)
 
 
 
